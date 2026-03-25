@@ -13,3 +13,4 @@ dist/
 # System junk
 .vscode/
 .idea/
+logs/
